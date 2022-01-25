@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNITY DEVELOPER TEST", "UNITY DEVELOPER TEST\UNITY DEVELOPER TEST.csproj", "{472C3AB0-A5B4-44A2-8145-53A3F8FDCA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472C3AB0-A5B4-44A2-8145-53A3F8FDCA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472C3AB0-A5B4-44A2-8145-53A3F8FDCA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472C3AB0-A5B4-44A2-8145-53A3F8FDCA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472C3AB0-A5B4-44A2-8145-53A3F8FDCA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2556D99-3C6F-4080-8236-78E8587221F8}
+	EndGlobalSection
+EndGlobal
